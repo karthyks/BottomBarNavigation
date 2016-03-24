@@ -37,11 +37,11 @@ Import as a module into your android project.
 </pre>
 <h5>Add BottomBar in your preferred layout : </h5>
 ```xml
-<com.karthyks.bottombarview.views.BottomBarView
+<com.github.karthyks.bottombarnavigation.views.BottomBarView
           android:id="@+id/bottom_bar"
           android:layout_width="match_parent"
           android:layout_height="match_parent">
-</com.karthyks.bottombarview.views.BottomBarView>
+</com.github.karthyks.bottombarnavigation.views.BottomBarView>
 ```
 <h5>In your activity class : </h5>
 <pre>
@@ -59,17 +59,17 @@ Import as a module into your android project.
               android:layout_height="match_parent"
               android:gravity="center"
               android:orientation="horizontal">
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/btn_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/btn_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/btn_3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
