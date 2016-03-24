@@ -5,24 +5,24 @@
               android:gravity="center"
               android:orientation="horizontal">
 
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/bbn_waiting"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-    </com.karthyks.bottombarview.views.BottomBarButton>
+    </com.github.karthyks.bottombarnavigation.views.BottomBarButton>
 
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/bbn_boarded"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-    </com.karthyks.bottombarview.views.BottomBarButton>
+    </com.github.karthyks.bottombarnavigation.views.BottomBarButton>
 
-    <com.karthyks.bottombarview.views.BottomBarButton
+    <com.github.karthyks.bottombarnavigation.views.BottomBarButton
         android:id="@+id/bbn_reached"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
-    </com.karthyks.bottombarview.views.BottomBarButton>
+    </com.github.karthyks.bottombarnavigation.views.BottomBarButton>
 </LinearLayout>
