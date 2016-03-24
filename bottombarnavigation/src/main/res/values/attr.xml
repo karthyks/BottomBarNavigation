@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomBarView">
+        <attr name="bottomBarColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="BottomBarButton">
+        <attr name="buttonNormal" format="reference"/>
+        <attr name="buttonPressed" format="reference"/>
+        <attr name="buttonText" format="string"/>
+        <attr name="textColorNormal" format="color"/>
+        <attr name="textColorPressed" format="color"/>
+    </declare-styleable>
+</resources>

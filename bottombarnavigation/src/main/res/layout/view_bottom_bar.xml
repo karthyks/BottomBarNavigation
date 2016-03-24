@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/bottomBarParentFrame"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_gravity="center|bottom"
+        android:gravity="center"
+        android:weightSum="3"
+        android:orientation="horizontal">
+    </LinearLayout>
+</LinearLayout>

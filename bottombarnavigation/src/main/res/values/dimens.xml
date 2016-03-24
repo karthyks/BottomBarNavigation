@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bottom_bar_button_max_width">168dp</dimen>
+    <dimen name="bottom_bar_button_min_width">104dp</dimen>
+    <dimen name="bottom_bar_default_height">56dp</dimen>
+    <dimen name="bottom_bar_text_normal">8sp</dimen>
+    <dimen name="bottom_bar_text_pressed">10sp</dimen>
+</resources>
