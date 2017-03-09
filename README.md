@@ -19,7 +19,13 @@ https://www.google.com/design/spec/components/bottom-navigation.html
   <li>Configure to add more than 3 buttons in the bottom bar</li>
   <li>Make the integration of the library much simpler and generic</li>
 </ul>
-
+<h2> Gradle </h2>
+<pre>
+  <code>
+    compile 'com.github.karthyks:bottombarnavigation:0.1'
+  </code>
+</pre>
+<p> or </p>
 <h2>Integration:</h2>
 Import as a module into your android project.
 <p>Add dependency in your gradle</p>
