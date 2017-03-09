@@ -83,7 +83,7 @@ public class BottomBarView extends LinearLayout {
   }
 
   public void setWeight(int weight) {
-    parentFrame.setWeightSum(3);
+    parentFrame.setWeightSum(weight);
   }
 
   public LinearLayout getParentFrame() {
